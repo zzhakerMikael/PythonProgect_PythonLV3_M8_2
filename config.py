@@ -1,0 +1,1 @@
+tg_id = "YOUR_TELEGRAM_ID"
